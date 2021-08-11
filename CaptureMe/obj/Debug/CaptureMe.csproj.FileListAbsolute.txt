@@ -1,0 +1,10 @@
+D:\CaptureMe\CaptureMe\bin\Debug\CaptureMe.exe.config
+D:\CaptureMe\CaptureMe\bin\Debug\CaptureMe.exe
+D:\CaptureMe\CaptureMe\bin\Debug\CaptureMe.pdb
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.csprojAssemblyReference.cache
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.Form1.resources
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.Properties.Resources.resources
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.csproj.GenerateResource.cache
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.csproj.CoreCompileInputs.cache
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.exe
+D:\CaptureMe\CaptureMe\obj\Debug\CaptureMe.pdb
